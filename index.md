@@ -2,8 +2,8 @@
 
 ###### 个人信息
 
-- 姓名：李高峰 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;年龄：27
-- 手机：17606549981 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：ligaofeng0507@163.com
+- 姓名：李高峰 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;年龄：27
+- 手机：17606549981 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：ligaofeng0507@163.com
 - 岗位：前端工程师
 
 ###### 工作经历
@@ -13,20 +13,14 @@
 - <font size=2>杭州电牛科技有限公司 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2017.03-2018.06</font>
 
 ###### 专业技能
-
-- <font size=2>熟练使用HTML，CSS，Javascript</font>
-- <font size=2>对Vue有丰富的开发经验，了解React能基本使用，具备一定的框架设计能力</font>
-- <font size=2>熟练使用uni-app框架</font>
-- <font size=2>熟练使⽤ Node.js 熟练使⽤ npm, webpack, 等⼯具</font>
-- <font size=2>对微信⼩程序，微信公众号开发有⼀定了解，有多个独⽴开发上线项⽬</font>
-- <font size=2>熟悉Element、Antd、、Vant、Cube等Ui库的使用</font>
-- <font size=2>熟练使用echarts、antv、高德地图等可视化工具库</font>
-- <font size=2>熟悉前端性能的优化，熟悉使⽤ Chrome，Safari 等前端调试⼯具</font>
-- <font size=2>对数据可视化开发深⼊理解</font>
-- <font size=2>对浏览器渲染，异步编程，跨域等概念有清晰的认知，对常⻅库的源码实现有了解</font>
-- <font size=2>熟练使用GIT版本控制系统的使用</font>
-- <font size=2>具备⼀定的⽂档阅读能⼒和良好的代码书写习惯。了解网站SEO优化。有一定的项目主导经验</font>
-
+- <font size=2>熟练Html、Js、Ts、Jquery、Css、Less、Scss。</font>
+- <font size=2>熟练使用Vuejs，对其源码有相关的阅读理解。熟练使用Reactjs。及Vue，React生态的相关工具。</font>
+- <font size=2>熟练App混合开发、H5、微信公众号、微信小程序开发。</font>
+- <font size=2>能快速上手相关的UI库，并且具备二次开发的能力。对可视化开发大屏展示有丰富的开发经验。</font>
+- <font size=2>熟练使用Nodejs，Nestjs，TypeOrm数据库操作工具等。能独立开发后端服务程序。</font>
+- <font size=2>熟练使用git相关工具，了解Nginx，Docker，Pm2，阿里云服务器等相关服务部署程序。</font>
+- <font size=2>对微前端架构有一定的架构经验。有一定的项目架构能力。</font>
+- <font size=2>具备丰富的项目经验，有一定的项目主导能力。能针对业务输出合理的技术解决方案。</font>
 ###### 项目经历
 
 <font size=2>1. 综管可视化配置项目</font>
