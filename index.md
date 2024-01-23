@@ -1,19 +1,14 @@
 #### <center>个人简历</center>
-
 ###### 个人信息
-
 - 姓名：李高峰 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;年龄：27
 - 手机：17606549981 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：ligaofeng0507@163.com
 - 岗位：前端工程师
-
 ###### 工作经历
-
 - <font size=2>杭州聚医智联科技有限公司 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019.11-至今</font>
 - <font size=2>杭州天音在线娱乐科技有限公司 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018.06-2019.11</font>
 - <font size=2>杭州电牛科技有限公司 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2017.03-2018.06</font>
-
 ###### 专业技能
-- <font size=2>熟练Html、Js、Ts、Jquery、Css、Less、Scss。</font>
+- <font size=2>熟练Html、Js、Ts、Jquery、Css、Less、Scss、TailwindCss。</font>
 - <font size=2>熟练使用Vuejs，对其源码有相关的阅读理解。熟练使用Reactjs。及Vue，React生态的相关工具。</font>
 - <font size=2>熟练App混合开发、H5、微信公众号、微信小程序开发。</font>
 - <font size=2>能快速上手相关的UI库，并且具备二次开发的能力。对可视化开发大屏展示有丰富的开发经验。</font>
@@ -22,7 +17,6 @@
 - <font size=2>对微前端架构有一定的架构经验。有一定的项目架构能力。</font>
 - <font size=2>具备丰富的项目经验，有一定的项目主导能力。能针对业务输出合理的技术解决方案。</font>
 ###### 项目经历
-
 <font size=2>1. 综管可视化配置项目</font>
 - <font size=2>项目介绍</font>
   - <font size=2>自定义实现数据可视化大屏</font>
@@ -77,11 +71,10 @@
 - <font size=2>版权商平台  [https://producer.1bgm.com/](https://producer.1bgm.com/)</font>
 - <font size=2>1BGM点歌平台</font>
 - <font size=2>天音后台管理系统</font>
-- <font size=2>...</font>
+<font size=2>...</font>
 
-#### 作为⼀名前端⼯程师
-
-- <font size=2>严谨、认真的工作态度，做任何事之前都喜欢提做好准备，有较强的责任心和抗压能力。</font>
-- <font size=2>为人随和，能很快的融入新的团队中，吃苦耐劳热衷于新技术的学习。</font>
-- <font size=2>有较强的执行能力，善于与人沟通和合作，同时也有较强的适应能力，理解和学习能力比较强。</font>
-- <font size=2>热爱编码这个职业、更希望在时间的沉淀中能够探索编程中更多⽆奇不有的新技术、新鲜事。</font>
+###### 作为⼀名前端⼯程师
+  - <font size=2>严谨、认真的工作态度，做任何事之前都喜欢提做好准备，有较强的责任心和抗压能力。</font>
+  - <font size=2>为人随和，能很快的融入新的团队中，吃苦耐劳热衷于新技术的学习。</font>
+  - <font size=2>有较强的执行能力，善于与人沟通和合作，同时也有较强的适应能力，理解和学习能力比较强。</font>
+  - <font size=2>热爱编码这个职业、更希望在时间的沉淀中能够探索编程中更多⽆奇不有的新技术、新鲜事。</font>
